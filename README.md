@@ -14,10 +14,10 @@ A CAD (computer assisted design) of a phone case for the model IPhone XR. Made w
 
 Practical application is unviable, as when it was 3D printed, it was shown that the plastic used for 3D printing is much too fragile to be able to "snap" onto a phone, instead breaking.
 
-<img src = "https://i.imgur.com/NVCtTs0.png" alt="3D Model of IPhone Case"> 
+<img src = "https://i.imgur.com/NVCtTs0.png" alt="3D Model of IPhone Case" width="200"> 
 
-<img src = "https://i.imgur.com/fyBAoFk.png" alt="Isometric View"> 
+<img src = "https://i.imgur.com/fyBAoFk.png" alt="Isometric View" width="200"> 
 
-<img src = "https://i.imgur.com/nYXJ8Pu.png" alt = "Bottom View".
+<img src = "https://i.imgur.com/nYXJ8Pu.png" alt = "Bottom View" width="200">
 
 <img src="https://i.imgur.com/AqBN4VU.png" alt="3D Model of Video Game item \"Master Sword\"">
