@@ -19,7 +19,7 @@ Practical application is unviable, as when it was 3D printed, it was shown that 
 
 <img src = "https://i.imgur.com/fyBAoFk.png" alt="Isometric View" height="200"> 
 
-<img src = "https://i.imgur.com/nYXJ8Pu.png" alt = "Bottom View" height="200">
+<img src = "https://i.imgur.com/m8Qf2Xd.png" alt = "Bottom View" height="200">
 </p>
   
 <img src="https://i.imgur.com/AqBN4VU.png" alt="3D Model of Video Game item \"Master Sword\"">
